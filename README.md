@@ -1,3 +1,4 @@
+![screenLeadsTracker](https://user-images.githubusercontent.com/81512294/131381353-beab7885-3117-4e33-bece-b8030cb3a14c.PNG)
 # LeadsTrackerExtension
 A dumb chrome extension that lets you save leads and links of the webpage you are visiting for later reference.
 
